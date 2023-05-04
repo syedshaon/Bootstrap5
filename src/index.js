@@ -6,7 +6,7 @@
 
 import "./style.scss";
 // Import all of Bootstrap's JS
-/* import * as bootstrap from "bootstrap"; */
+import * as bootstrap from "bootstrap";
 
 // import { Util, Dropdown, Offcanvas, Popover } from "bootstrap";
 // or, specify which plugins you need:
